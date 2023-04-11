@@ -1,5 +1,9 @@
+
+
 import random
+
 print("Title : Eat, Drink, And Be Sick")
+
 noun = []
 for i in range(4):
     n = input("Enter noun : ")
